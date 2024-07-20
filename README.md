@@ -56,7 +56,7 @@ Or:
 
 ## Credits
 
-- Uses the [chainid.netork](https://chainid.network/) API to get EVM network information.
+- Uses the [chainid.network](https://chainid.network/) API to get EVM network information.
 - Uses the [llama.fi](https://llama.fi/) API to get TVL data.
 
 ## License
